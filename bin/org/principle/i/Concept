@@ -1,0 +1,7 @@
+Interface Segregation principle
+
+No client should be forced to depends on methods it does not use.
+
+- Or, a client should never be depend on anything more than the method its calling
+- changing one method in class shouldn't affect classes that don't depends on it
+- replace fat interface with many small, specific interfaces

@@ -1,0 +1,7 @@
+Liskov Substituion Principle + Factory Design Pattern
+
+A base class should be replacable by subclass without breaking the actual functinality/implementation.
+
+- any derived class should be able to substitute its parent class without the consumer knowing about it
+- every class that implements an interface, must be able to substitute any reference throughout the code that implements that same interface
+- every part of the code should get the expected result no matter what instance of a class you send to it, given it implements the same interface

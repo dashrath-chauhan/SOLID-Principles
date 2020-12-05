@@ -1,0 +1,8 @@
+Open/Closed Principle + Specification Design Pattern(Enterprise Design Pattern)
+
+An entity should be open for extension but closed for modification.
+
+Goal - to get to a point where you can never break the core of your system.
+
+- if want an extra feature, extend the functionality by adding new code, instead of chaning into existing one
+- seperate the behavious, so the system can easily be extended, but never broken

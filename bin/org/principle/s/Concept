@@ -1,0 +1,8 @@
+Single Responsibility Principle
+
+A class should have one, and only one, reason to change.
+
+- a class should only be responsible for one thing
+- there is a place for everything and everything should be in its place
+- find one reason to change and take everything out of the class
+- precise names for small classes, generic names for large classes
